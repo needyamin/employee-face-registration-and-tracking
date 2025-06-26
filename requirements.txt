@@ -1,0 +1,6 @@
+retina-face
+opencv-python
+Pillow
+numpy
+tf-keras
+# sqlite3 is included with Python standard library
