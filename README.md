@@ -47,7 +47,7 @@ tf-keras
 
 ### Step 1: Clone or Download
 ```bash
-git clone <repository-url>
+git clone https://github.com/needyamin/employee-face-registration-and-tracking
 cd face-detection
 ```
 
@@ -232,5 +232,5 @@ For support and questions:
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: December 2024  
+**Last Updated**: 27 June 2025
 **Author**: ANSNEW TECH. 
