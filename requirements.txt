@@ -4,3 +4,8 @@ Pillow
 numpy
 tf-keras
 # sqlite3 is included with Python standard library
+# tkinter is included with Python standard library
+# threading is included with Python standard library
+# queue is included with Python standard library
+# datetime is included with Python standard library
+# os is included with Python standard library
